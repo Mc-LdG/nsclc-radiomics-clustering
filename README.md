@@ -39,5 +39,5 @@ KM/Cox (random_state=42)
 
 **Manuel CLDG**  
 *Pharmacist + AI/Neuroimaging MSc* 
-Spain |[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/manuelcldg/) | [Utrera, España]
+Spain |[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/manuelcldg/) 
 
